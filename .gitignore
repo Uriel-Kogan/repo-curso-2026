@@ -1,0 +1,8 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.tmp
+.DS_Store
+Thumbs.db
+repos-interesantes/
