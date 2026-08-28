@@ -1,0 +1,348 @@
+Script started on 2026-08-28 13:54:34+00:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="111" LINES="19"]
+[?2004h]0;mastr@bripsy: /mnt/c/Users/mastr/Documents/Curso-E520/1er projecto/repo-curso-2026/Tareas/Tarea01[01;32mmastr@bripsy[00m:[01;34m/mnt/c/Users/mastr/Documents/Curso-E520/1er projecto/repo-curso-2026/Tareas/Tarea01[00m$ pwd
+[?2004l/mnt/c/Users/mastr/Documents/Curso-E520/1er projecto/repo-curso-2026/Tareas/Tarea01
+[?2004h]0;mastr@bripsy: /mnt/c/Users/mastr/Documents/Curso-E520/1er projecto/repo-curso-2026/Tareas/Tarea01[01;32mmastr@bripsy[00m:[01;34m/mnt/c/Users/mastr/Documents/Curso-E520/1er projecto/repo-curso-2026/Tareas/Tarea01[00m$ cd /
+[?2004l[?2004h]0;mastr@bripsy: /[01;32mmastr@bripsy[00m:[01;34m/[00m$ pwd
+[?2004l/
+[?2004h]0;mastr@bripsy: /[01;32mmastr@bripsy[00m:[01;34m/[00m$ cd home
+[?2004l[?2004h]0;mastr@bripsy: /home[01;32mmastr@bripsy[00m:[01;34m/home[00m$ pwd
+[?2004l/home
+[?2004h]0;mastr@bripsy: /home[01;32mmastr@bripsy[00m:[01;34m/home[00m$ cd ..
+[?2004l[?2004h]0;mastr@bripsy: /[01;32mmastr@bripsy[00m:[01;34m/[00m$ cd
+[?2004l[?2004h]0;mastr@bripsy: ~[01;32mmastr@bripsy[00m:[01;34m~[00m$ pwd
+[?2004l/home/mastr
+[?2004h]0;mastr@bripsy: ~[01;32mmastr@bripsy[00m:[01;34m~[00m$ cd ../..
+[?2004l[?2004h]0;mastr@bripsy: /[01;32mmastr@bripsy[00m:[01;34m/[00m$ cd
+[?2004l[?2004h]0;mastr@bripsy: ~[01;32mmastr@bripsy[00m:[01;34m~[00m$ pwd
+[?2004l/home/mastr
+[?2004h]0;mastr@bripsy: ~[01;32mmastr@bripsy[00m:[01;34m~[00m$ cd /..[K[K[K../../Documents
+[?2004lbash: cd: ../../Documents: No such file or directory
+[?2004h]0;mastr@bripsy: ~[01;32mmastr@bripsy[00m:[01;34m~[00m$ cd[K[Kcd /
+[?2004l[?2004h]0;mastr@bripsy: /[01;32mmastr@bripsy[00m:[01;34m/[00m$ cd h[KDocuments
+[?2004lbash: cd: Documents: No such file or directory
+[?2004h]0;mastr@bripsy: /[01;32mmastr@bripsy[00m:[01;34m/[00m$ cd ,[KMastr[Kr
+[?2004lbash: cd: Mastr: No such file or directory
+[?2004h]0;mastr@bripsy: /[01;32mmastr@bripsy[00m:[01;34m/[00m$ cd mastr
+[?2004lbash: cd: mastr: No such file or directory
+[?2004h]0;mastr@bripsy: /[01;32mmastr@bripsy[00m:[01;34m/[00m$ cd /
+[?2004l[?2004h]0;mastr@bripsy: /[01;32mmastr@bripsy[00m:[01;34m/[00m$ ,d[K[Kmdir[K[K[Kkdo[Kir etc
+[?2004lmkdir: etc: File exists
+[?2004h]0;mastr@bripsy: /[01;32mmastr@bripsy[00m:[01;34m/[00m$ cd etc
+[?2004l[?2004h]0;mastr@bripsy: /etc[01;32mmastr@bripsy[00m:[01;34m/etc[00m$ pwd
+[?2004l/etc
+[?2004h]0;mastr@bripsy: /etc[01;32mmastr@bripsy[00m:[01;34m/etc[00m$ cd
+[?2004l[?2004h]0;mastr@bripsy: ~[01;32mmastr@bripsy[00m:[01;34m~[00m$ pwd
+[?2004l/home/mastr
+[?2004h]0;mastr@bripsy: ~[01;32mmastr@bripsy[00m:[01;34m~[00m$ cd etc
+[?2004lbash: cd: etc: No such file or directory
+[?2004h]0;mastr@bripsy: ~[01;32mmastr@bripsy[00m:[01;34m~[00m$ cd /etc
+[?2004l[?2004h]0;mastr@bripsy: /etc[01;32mmastr@bripsy[00m:[01;34m/etc[00m$ pwd
+[?2004l/etc
+[?2004h]0;mastr@bripsy: /etc[01;32mmastr@bripsy[00m:[01;34m/etc[00m$ whoami
+[?2004lmastr
+[?2004h]0;mastr@bripsy: /etc[01;32mmastr@bripsy[00m:[01;34m/etc[00m$ [7mcd /home/user/Desktop[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd /home/user/Desktop
+[?2004lbash: cd: /home/user/Desktop: No such file or directory
+[?2004h]0;mastr@bripsy: /etc[01;32mmastr@bripsy[00m:[01;34m/etc[00m$ cd /home/mastr/Desktp[Kop
+[?2004lbash: cd: /home/mastr/Desktop: No such file or directory
+[?2004h]0;mastr@bripsy: /etc[01;32mmastr@bripsy[00m:[01;34m/etc[00m$ cd /home/mastr/Escritorio
+[?2004lbash: cd: /home/mastr/Escritorio: No such file or directory
+[?2004h]0;mastr@bripsy: /etc[01;32mmastr@bripsy[00m:[01;34m/etc[00m$ [7mcd /mnt/c/Users/mastr/Desktop/Curso-E520[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd /mnt/c/Users/mastr/Desktop/Curso-E520
+[?2004lbash: cd: /mnt/c/Users/mastr/Desktop/Curso-E520: No such file or directory
+[?2004h]0;mastr@bripsy: /etc[01;32mmastr@bripsy[00m:[01;34m/etc[00m$ [7mcd /mnt/c/Users/mastr/Desktop/Curso-E520[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pcd /mnt/c/Users/mastr/Desktop/Curso-E52[K[K[K[K[K[K[K[K[K[K
+[?2004l[?2004h]0;mastr@bripsy: /mnt/c/Users/mastr/Desktop[01;32mmastr@bripsy[00m:[01;34m/mnt/c/Users/mastr/Desktop[00m$ pwd
+[?2004l/mnt/c/Users/mastr/Desktop
+[?2004h]0;mastr@bripsy: /mnt/c/Users/mastr/Desktop[01;32mmastr@bripsy[00m:[01;34m/mnt/c/Users/mastr/Desktop[00m$ cd [7m~[27m~
+[?2004l[?2004h]0;mastr@bripsy: ~[01;32mmastr@bripsy[00m:[01;34m~[00m$ pwd
+[?2004l/home/mastr
+[?2004h]0;mastr@bripsy: ~[01;32mmastr@bripsy[00m:[01;34m~[00m$ [7mcd ~/Desktop[27mcd ~/Desktop
+[?2004lbash: cd: /home/mastr/Desktop: No such file or directory
+[?2004h]0;mastr@bripsy: ~[01;32mmastr@bripsy[00m:[01;34m~[00m$ cd
+[?2004l[?2004h]0;mastr@bripsy: ~[01;32mmastr@bripsy[00m:[01;34m~[00m$ cd /mnt/c/u[KUsers/mastr
+[?2004l[?2004h]0;mastr@bripsy: /mnt/c/Users/mastr[01;32mmastr@bripsy[00m:[01;34m/mnt/c/Users/mastr[00m$ cd [K[K[K[7mcd ~/Desktop[27mcd ~/Desktop
+[?2004lbash: cd: /home/mastr/Desktop: No such file or directory
+[?2004h]0;mastr@bripsy: /mnt/c/Users/mastr[01;32mmastr@bripsy[00m:[01;34m/mnt/c/Users/mastr[00m$ ??????[K[K[K[K[K[Kpwd
+[?2004l/mnt/c/Users/mastr
+[?2004h]0;mastr@bripsy: /mnt/c/Users/mastr[01;32mmastr@bripsy[00m:[01;34m/mnt/c/Users/mastr[00m$ cd /
+[?2004l[?2004h]0;mastr@bripsy: /[01;32mmastr@bripsy[00m:[01;34m/[00m$ [7mcd ~/Escritorio[27mcd ~/Escritorio
+[?2004lbash: cd: /home/mastr/Escritorio: No such file or directory
+[?2004h]0;mastr@bripsy: /[01;32mmastr@bripsy[00m:[01;34m/[00m$ cd /
+[?2004l[?2004h]0;mastr@bripsy: /[01;32mmastr@bripsy[00m:[01;34m/[00m$ cd [7mcd ~/Escritorio[27mcd ~/Escritorio[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[C[1@c[1P
+[?2004lbash: cd: /home/mastr/Escritorio: No such file or directory
+[?2004h]0;mastr@bripsy: /[01;32mmastr@bripsy[00m:[01;34m/[00m$ cd/
+[?2004lbash: cd/: No such file or directory
+[?2004h]0;mastr@bripsy: /[01;32mmastr@bripsy[00m:[01;34m/[00m$ cd /
+[?2004l[?2004h]0;mastr@bripsy: /[01;32mmastr@bripsy[00m:[01;34m/[00m$ cd /etc
+[?2004l[?2004h]0;mastr@bripsy: /etc[01;32mmastr@bripsy[00m:[01;34m/etc[00m$ cd /vA[Kar/log
+[?2004l[?2004h]0;mastr@bripsy: /var/log[01;32mmastr@bripsy[00m:[01;34m/var/log[00m$ cd..
+[?2004lcd..: command not found
+[?2004h]0;mastr@bripsy: /var/log[01;32mmastr@bripsy[00m:[01;34m/var/log[00m$ cd ..
+[?2004l[?2004h]0;mastr@bripsy: /var[01;32mmastr@bripsy[00m:[01;34m/var[00m$ cd
+[?2004l[?2004h]0;mastr@bripsy: ~[01;32mmastr@bripsy[00m:[01;34m~[00m$ [7mmkdir /tmp/tutorial[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmkdir /tmp/tutorial
+[?2004l[?2004h]0;mastr@bripsy: ~[01;32mmastr@bripsy[00m:[01;34m~[00m$ [7mcd /tmp/tutorial[27mcd /tmp/tutorial
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mmkdir dir1 dir2 dir3[27mmkdir dir1 dir2 dir3
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ ,d[K[Kmkdir
+[?2004l[31merror[0m: the following required arguments were not provided:
+  <dirs>...
+
+Usage: mkdir [OPTION]... DIRECTORY...
+
+For more information, try '--help'.
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mcd /etc ~/Desktop[27mcd /etc ~/Desktop
+[?2004lbash: cd: too many arguments
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l[0m[01;34mdir1[0m  [01;34mdir2[0m  [01;34mdir3[0m
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mmkdir -p dir4/dir5/dir6[27mmkdir -p dir4/dir5/dir6
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l[0m[01;34mdir1[0m  [01;34mdir2[0m  [01;34mdir3[0m  [01;34mdir4[0m
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ cd dir4
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial/dir4[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial/dir4[00m$ ls
+[?2004l[0m[01;34mdir5[0m
+[?2004h]0;mastr@bripsy: /tmp/tutorial/dir4[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial/dir4[00m$ cd dir 5
+[?2004lbash: cd: too many arguments
+[?2004h]0;mastr@bripsy: /tmp/tutorial/dir4[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial/dir4[00m$ cd dir5
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial/dir4/dir5[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial/dir4/dir5[00m$ ls
+[?2004l[0m[01;34mdir6[0m
+[?2004h]0;mastr@bripsy: /tmp/tutorial/dir4/dir5[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial/dir4/dir5[00m$ cd ../..
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mmkdir another folder[27mmkdir another folder
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l[0m[01;34manother[0m  [01;34mdir1[0m  [01;34mdir2[0m  [01;34mdir3[0m  [01;34mdir4[0m  [01;34mfolder[0m
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mmkdir "folder 4" "folder 5"[27mmkdir "folder 4" "folder 5"
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l [0m[01;34manother[0m   [01;34mdir1[0m   [01;34mdir2[0m   [01;34mdir3[0m   [01;34mdir4[0m   [01;34mfolder[0m   [01;34m'folder 4'[0m   [01;34m'folder 5'[0m
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mmkdir "folder 1"[27mmkdir "folder 1"
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l [0m[01;34manother[0m   [01;34mdir1[0m   [01;34mdir2[0m   [01;34mdir3[0m   [01;34mdir4[0m   [01;34mfolder[0m   [01;34m'folder 1'[0m   [01;34m'folder 4'[0m   [01;34m'folder 5'[0m
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mls > output.txt[27mls > output.txt
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mcat output.txt[27mcat output.txt
+[?2004lanother
+dir1
+dir2
+dir3
+dir4
+folder
+folder 1
+folder 4
+folder 5
+output.txt
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ cat
+[?2004l^C
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mecho "This is a test"[27mecho "This is a test"
+[?2004lThis is a test
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mecho "This is a test" > test_1.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "This is a test" > test_1.txt
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l [0m[01;34manother[0m   [01;34mdir1[0m   [01;34mdir2[0m   [01;34mdir3[0m   [01;34mdir4[0m   [01;34mfolder[0m   [01;34m'folder 1'[0m   [01;34m'folder 4'[0m   [01;34m'folder 5'[0m   output.txt   test_1.txt
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mecho "This is a second test" > test_2.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "This is a second test" > test_2.txt
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mecho "This is a third test" > test_3.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "This is a third test" > test_3.txt
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l [0m[01;34manother[0m   [01;34mdir2[0m   [01;34mdir4[0m     [01;34m'folder 1'[0m   [01;34m'folder 5'[0m   test_1.txt   test_3.txt
+ [01;34mdir1[0m      [01;34mdir3[0m   [01;34mfolder[0m   [01;34m'folder 4'[0m   output.txt   test_2.txt
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mcat test_1.txt test_2.txt test_3.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat test_1.txt test_2.txt test_3.txt
+[?2004lThis is a test
+This is a second test
+This is a third test
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mcat test_1.txt test_2.txt test_3.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat test_1.txt test_2.txt test_3.txt
+[?2004lThis is a test
+This is a second test
+This is a third test
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mcat test_?.txt[27mcat test_?.txt
+[?2004lThis is a test
+This is a second test
+This is a third test
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mcat t* > combined.txt[27mcat t* > combined.txt
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mcat combined.txt[27mcat combined.txt
+[?2004lThis is a test
+This is a second test
+This is a third test
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mcat t* >> combined.txt[27mcat t* >> combined.txt
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mecho "I've appended a line!" >> combined.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "I've appended a line!" >> combined.txt
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mcat combined.txt[27mcat combined.txt
+[?2004lThis is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+I've appended a line!
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mcat combined.txt[27mcat combined.txt
+[?2004lThis is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+I've appended a line!
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mless combined.txt[27mless combined.txt
+[?2004l[?1049h[22;0;0t[19;1H[?1h=This is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+I've appended a line!
+[7mcombined.txt (END)[27m[K[H[2J[H[H[2J[HThis is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+I've appended a line!
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[H[2J[H[H[2J[HThis is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+I've appended a line!
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K[K[7m(END)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mmv combined.txt dir1[27mmv combined.txt dir1
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ ls dir1
+[?2004lcombined.txt
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mmv dir1/* .[27mmv dir1/* .
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mmv combined.txt test_* dir3 dir2[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmv combined.txt test_* dir3 dir2
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l [0m[01;34manother[0m   [01;34mdir1[0m   [01;34mdir2[0m   [01;34mdir4[0m   [01;34mfolder[0m   [01;34m'folder 1'[0m   [01;34m'folder 4'[0m   [01;34m'folder 5'[0m   output.txt
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mmv dir2/combined.txt dir4/dir5/dir6[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmv dir2/combined.txt dir4/dir5/dir6
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ ls dir 2
+[?2004lls: cannot access 'dir': No such file or directory
+ls: cannot access '2': No such file or directory
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ ls dir2
+[?2004l[0m[01;34mdir3[0m  test_1.txt  test_2.txt  test_3.txt
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mls dir4/dir5/dir6[27mls dir4/dir5/dir6
+[?2004lcombined.txt
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mcp dir4/dir5/dir6/combined.txt .[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccp dir4/dir5/dir6/combined.txt .
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mls dir4/dir5/dir6[27mls dir4/dir5/dir6
+[?2004lcombined.txt
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ lx[Ks
+[?2004l [0m[01;34manother[0m   combined.txt   [01;34mdir1[0m   [01;34mdir2[0m   [01;34mdir4[0m   [01;34mfolder[0m   [01;34m'folder 1'[0m   [01;34m'folder 4'[0m   [01;34m'folder 5'[0m   output.txt
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mcp combined.txt backup_combined.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccp combined.txt backup_combined.txt
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l [0m[01;34manother[0m               combined.txt   [01;34mdir2[0m   [01;34mfolder[0m       [01;34m'folder 4'[0m   output.txt
+ backup_combined.txt   [01;34mdir1[0m           [01;34mdir4[0m   [01;34m'folder 1'[0m   [01;34m'folder 5'[0m
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mmv backup_combined.txt combined_backup.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmv backup_combined.txt combined_backup.txt
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l [0m[01;34manother[0m        combined_backup.txt   [01;34mdir2[0m   [01;34mfolder[0m       [01;34m'folder 4'[0m   output.txt
+ combined.txt   [01;34mdir1[0m                  [01;34mdir4[0m   [01;34m'folder 1'[0m   [01;34m'folder 5'[0m
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mmv "folder 1" folder_1[27mmv "folder 1" folder_1
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mmv "folder 4" folder_4[27mmv "folder 4" folder_4
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mmv "folder 5" folder_5[27mmv "folder 5" folder_5
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ ls
+[?2004l[0m[01;34manother[0m  combined.txt  combined_backup.txt  [01;34mdir1[0m  [01;34mdir2[0m  [01;34mdir4[0m  [01;34mfolder[0m  [01;34mfolder_1[0m  [01;34mfolder_4[0m  [01;34mfolder_5[0m  output.txt
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mrm dir4/dir5/dir6/combined.txt combined_backup.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm dir4/dir5/dir6/combined.txt combined_backup.txt
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mrm folder_*[27mrm folder_*
+[?2004lrm: cannot remove 'folder_1': Is a directory
+rm: cannot remove 'folder_4': Is a directory
+rm: cannot remove 'folder_5': Is a directory
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mrm -r folder_6[27m[1Prm -r folder_5
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mrm -r folder_6[27m[1Prm -r folder_[K[K[K[K[K[K[K[K[K[K[K[K[Kls
+[?2004l[0m[01;34manother[0m  combined.txt  [01;34mdir1[0m  [01;34mdir2[0m  [01;34mdir4[0m  [01;34mfolder[0m  [01;34mfolder_1[0m  [01;34mfolder_4[0m  output.txt
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mwc -l combined.txt[27mwc -l combined.txt
+[?2004l7 combined.txt
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mls ~ > file_list.txt[27mls ~ > file_list.txt
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mwc -l file_list.txt[27mwc -l file_list.txt
+[?2004l0 file_list.txt
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mrm file_list.txt[27mrm file_list.txt
+[?2004l[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mls ~ | wc -l[27mls ~ | wc -l
+[?2004l0
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mls /etc|wc -l[27mls /etc|wc -l
+[?2004l167
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mls /etc | less[27mls /etc | less
+[?2004l[?1049h[22;0;0t[19;1H[?1h=PackageKit
+X11
+adduser.conf
+alternatives
+apparmor
+apparmor.d
+apport
+apt
+bash.bashrc
+bash_completion
+bash_completion.d
+bindresvport.blacklist
+binfmt.d
+byobu
+ca-certificates
+ca-certificates.conf
+chrony
+cloud
+:[K[H[2J[H[H[2J[HPackageKit
+X11
+adduser.conf
+alternatives
+apparmor
+apparmor.d
+apport
+apt
+bash.bashrc
+bash_completion
+bash_completion.d
+bindresvport.blacklist
+binfmt.d
+byobu
+ca-certificates
+ca-certificates.conf
+chrony
+cloud
+:[K[K[?1l>[?1049l[23;0;0t[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mcat combined.txt | uniq | wc -l[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat combined.txt | uniq | wc -l
+[?2004l7
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mcat combined.txt | uniq | less[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat combined.txt | uniq | less
+[?2004l[?1049h[22;0;0t[19;1H[?1h=This is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+I've appended a line!
+[7m(END)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7mman uniq[27mman uniq
+[?2004l[?1049h[22;0;0t[19;1H[?1h=[4mUNIQ[24m(1)                                     General Commands Manual                                    [4mUNIQ[24m(1)[m
+[m
+[1mNAME[0m[m
+       uniq - Report or omit repeated lines.[m
+[m
+[1mSYNOPSIS[0m[m
+       [1muniq  [22m[[1m-D[22m|[1m--all-repeated[22m]  [[1m--group[22m] [[1m-w[22m|[1m--check-chars[22m] [[1m-c[22m|[1m--count[22m] [[1m-i[22m|[1m--ignore-case[22m] [[1m-d[22m|[1m--repeated[22m][m
+       [[1m-s[22m|[1m--skip-chars[22m] [[1m-f[22m|[1m--skip-fields[22m] [[1m-u[22m|[1m--unique[22m]  [[1m-z[22m|[1m--zero-terminated[22m]  [[1m-h[22m|[1m--help[22m]  [[1m-V[22m|[1m--version[22m][m
+       [[4mfiles[24m][m
+[m
+[1mDESCRIPTION[0m[m
+       Report or omit repeated lines.[m
+[m
+[1mOPTIONS[0m[m
+       [1m-D[22m, [1m--all-repeated[22m[=[4m<delimit-method>[24m][m
+              print all duplicate lines. Delimiting is done with blank lines. [default: none][m
+[m
+              [4mPossible[24m [4mvalues:[0m[m
+[7m Manual page uniq(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7msort combined.txt | less[27msort combined.txt | less
+[?2004l[?1049h[22;0;0t[19;1H[?1h=I've appended a line!
+This is a second test
+This is a second test
+This is a test
+This is a test
+This is a third test
+This is a third test
+[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ [7msort combined.txt | uniq | wc -l[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csort combined.txt | uniq | wc -l
+[?2004l4
+[?2004h]0;mastr@bripsy: /tmp/tutorial[01;32mmastr@bripsy[00m:[01;34m/tmp/tutorial[00m$ exit
+[?2004lexit
+
+Script done on 2026-08-28 14:19:48+00:00 [COMMAND_EXIT_CODE="0"]
