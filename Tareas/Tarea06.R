@@ -1,4 +1,4 @@
-# TAREA 06 - EDGAR API (SEC) & FINANCIAL TEXT MINING
+# TAREA 06 - EDGAR API Y FINANCIAL TEXT MINING
 
 library(edgar)
 library(tidyverse)  
